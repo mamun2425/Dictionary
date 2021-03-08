@@ -1,0 +1,39 @@
+
+#header {
+	background-color: #444444;
+}
+
+#searchbar{
+	background-color: #444444;
+}
+
+
+#input{
+	font-size: 30px;
+	font-weight: bold;
+}
+
+#output{
+	font-size: 25px;
+}
+
+.col-lg-4{
+	font-family: 'Lato', sans-serif;
+	color: #000;
+}
+
+.titlee{
+	font-size: 30px;
+	color: #66a0ff;
+	font-family: 'Nunito Sans', sans-serif;
+}
+
+.btn{
+	font-family: 'Lato', sans-serif;
+	color: #333333;
+}
+
+
+body{
+	background-color: #cccccc;
+}
